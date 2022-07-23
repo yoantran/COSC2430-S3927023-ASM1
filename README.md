@@ -1,7 +1,7 @@
 # COSC2430-S3927023-ASM1
 
-My github URL: 
-This is the URL to my website:
+My github URL: https://github.com/yoan0/COSC2430-S3927023-ASM1
+This is the URL to my website: https://yoan0.github.io/COSC2430-S3927023-ASM1/
 
 
 Original image below sourced for educational purposes:
